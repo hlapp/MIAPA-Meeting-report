@@ -1,0 +1,30 @@
+# Steps towards a Minimum Information About a Phylogenetic Analysis (MIAPA) Standard: A meeting report.
+
+# Introduction
+
+  * Why did we do this workshop.
+  * Research areas represented by the participants. Describe briefly what the crowd was like.
+
+# Why a minimum standard for phylogenetics, and how to engineer it.
+
+  * Enumerate and summarize the stage-setting talks on Day 1.
+
+# A scope statement for MIAPA
+
+  * Summarize the findings of the scope break-out of Day 2.
+  * Present the draft scope statement.
+
+# Creating a draft MIAPA checklist
+
+  * Summarize the 3 break-outs from morning of Day 2.
+  * Present the reconciled draft checklist. 
+
+# Preparing for a community survey
+
+  * Motivate the survey 
+  * Summarize the community survey break-out.
+  * Present the draft community survey questions.
+
+# Acknowledgements
+
+# References
